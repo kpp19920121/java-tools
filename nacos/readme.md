@@ -1,5 +1,5 @@
 # nacos常用命令
-	<font>单机模式启动:</font>
+	单机模式启动:
 		./startup.sh    -m standalone
 # nacos访问地址
 	http://192.168.233.133:8848/nacos/index.html
