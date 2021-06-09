@@ -3,6 +3,7 @@
 		./startup.sh    -m standalone
 # nacos访问地址
 	http://192.168.233.133:8848/nacos/index.html
+	用户名/密码:nacos/nacos
 
 # nacos核心概念 #
 ##  1） 命名空间 ##
